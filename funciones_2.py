@@ -14,6 +14,6 @@ def login_2 ():
     if nombre == "ron" and password == "fghi":
         return "usuario_2"
     else:
-        return "usuario y contraseña incorrectos"
+        return "usuario y contraseña incorrectos, intente de nuevo por favor"
     
 
