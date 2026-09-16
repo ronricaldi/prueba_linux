@@ -10,7 +10,7 @@ def main_2 ():
     elif tipo_cuenta == "usuario_2":
         menu_usuario_2()
     else:
-        print("opcion incorrecta, acceso denegado")
+        print("opciòn incorrecta, acceso denegado, intente otra vez")
 main_2()
 
         
